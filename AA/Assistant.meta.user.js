@@ -11,5 +11,5 @@
 // @match        https://discord.com/*
 // @run-at       document-start
 // @downloadURL  https://raw.githubusercontent.com/WerewuIf/Ascension-Assistant/main/AA/Assistant.user.js
-// @updateURL    https://raw.githubusercontent.com/WerewuIf/Ascension-Assistant/main/AA/Assistant.user.js
+// @updateURL    https://raw.githubusercontent.com/WerewuIf/Ascension-Assistant/main/AA/Assistant.meta.user.js
 // ==/UserScript==
