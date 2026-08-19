@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ascension Assistant
 // @namespace    https://example.local/
-// @version      3.6.4
+// @version      3.6.5
 // @description  Multi-tab helper for Infinite Ascension
 // @grant        GM_setValue
 // @grant        GM_getValue
