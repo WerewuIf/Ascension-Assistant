@@ -7,6 +7,7 @@
 // @grant        GM_getValue
 // @grant        GM_openInTab
 // @grant        GM_xmlhttpRequest
+// @grant         GM_addValueChangeListener
 // @connect      raw.githubusercontent.com
 // @match        https://discord.com/*
 // @run-at       document-start
