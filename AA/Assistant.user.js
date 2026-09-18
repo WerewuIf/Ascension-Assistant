@@ -8,6 +8,8 @@
 // @grant        GM_openInTab
 // @grant        GM_xmlhttpRequest
 // @grant         GM_addValueChangeListener
+// @grant        window.close
+// @grant        unsafeWindow
 // @connect      raw.githubusercontent.com
 // @match        https://discord.com/*
 // @match        https://top.gg/bot/911525910547669002/vote*
