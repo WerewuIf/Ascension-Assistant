@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ascension Assistant
 // @namespace    https://example.local/
-// @version      3.8.0
+// @version      3.8.1
 // @description  Multi-tab helper for Infinite Ascension
 // @grant        GM_setValue
 // @grant        GM_getValue
@@ -14,6 +14,7 @@
 // @match        https://discord.com/*
 // @match        https://top.gg/bot/911525910547669002/vote*
 // @run-at       document-start
+// @inject-into  page
 // @downloadURL  https://raw.githubusercontent.com/WerewuIf/Ascension-Assistant/main/AA/Assistant.user.js
 // @updateURL    https://raw.githubusercontent.com/WerewuIf/Ascension-Assistant/main/AA/Assistant.meta.user.js
 // ==/UserScript==
